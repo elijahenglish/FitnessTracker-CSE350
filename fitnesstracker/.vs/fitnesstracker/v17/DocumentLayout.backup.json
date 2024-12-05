@@ -1,0 +1,359 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\elija\\Documents\\React\\fitnesstracker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\elija\\Documents\\React\\fitnesstracker\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\elija\\Documents\\React\\fitnesstracker\\src\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\elija\\Documents\\React\\fitnesstracker\\src\\components\\Footer.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\Footer.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\elija\\Documents\\React\\fitnesstracker\\src\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\elija\\Documents\\React\\fitnesstracker\\src\\App.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\App.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\elija\\Documents\\React\\fitnesstracker\\src\\components\\WorkoutsOfWeek.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\WorkoutsOfWeek.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\elija\\Documents\\React\\fitnesstracker\\src\\components\\Testimonials.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\Testimonials.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\elija\\Documents\\React\\fitnesstracker\\src\\components\\Navbar.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\Navbar.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\elija\\Documents\\React\\fitnesstracker\\src\\components\\Hero.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\Hero.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\elija\\Documents\\React\\fitnesstracker\\src\\components\\Header.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\Header.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\elija\\Documents\\React\\fitnesstracker\\src\\components\\Features.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\Features.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\elija\\Documents\\React\\fitnesstracker\\src\\components\\ContactUs.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\ContactUs.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\elija\\Documents\\React\\fitnesstracker\\src\\components\\CaloriesBurnedCalculator.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\CaloriesBurnedCalculator.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\elija\\Documents\\React\\fitnesstracker\\src\\components\\CalorieCalculator.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\CalorieCalculator.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\elija\\Documents\\React\\fitnesstracker\\src\\components\\BMICalculator.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\BMICalculator.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\elija\\Documents\\React\\fitnesstracker\\src\\components\\BestFoodsForDiets.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\BestFoodsForDiets.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\elija\\Documents\\React\\fitnesstracker\\package-lock.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:package-lock.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\elija\\Documents\\React\\fitnesstracker\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\elija\\Documents\\React\\fitnesstracker\\public\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:public\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\elija\\Documents\\React\\backup 3\\src\\components\\CalorieCalculator.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\elija\\Documents\\React\\backup 3\\src\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\elija\\Documents\\React\\fitnesstracker\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\elija\\Documents\\React\\fitnesstracker\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAABcAAAAAAAAAAAAiwDMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-12-05T00:59:31.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "package-lock.json",
+              "DocumentMoniker": "C:\\Users\\elija\\Documents\\React\\fitnesstracker\\package-lock.json",
+              "RelativeDocumentMoniker": "package-lock.json",
+              "ToolTip": "C:\\Users\\elija\\Documents\\React\\fitnesstracker\\package-lock.json",
+              "RelativeToolTip": "package-lock.json",
+              "ViewState": "AgIAALwBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-04T23:52:53.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ContactUs.js",
+              "DocumentMoniker": "C:\\Users\\elija\\Documents\\React\\fitnesstracker\\src\\components\\ContactUs.js",
+              "RelativeDocumentMoniker": "src\\components\\ContactUs.js",
+              "ToolTip": "C:\\Users\\elija\\Documents\\React\\fitnesstracker\\src\\components\\ContactUs.js",
+              "RelativeToolTip": "src\\components\\ContactUs.js",
+              "ViewState": "AgIAACoAAAAAAAAAAAAqwF4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-04T23:37:25.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CaloriesBurnedCalculator.js",
+              "DocumentMoniker": "C:\\Users\\elija\\Documents\\React\\fitnesstracker\\src\\components\\CaloriesBurnedCalculator.js",
+              "RelativeDocumentMoniker": "src\\components\\CaloriesBurnedCalculator.js",
+              "ToolTip": "C:\\Users\\elija\\Documents\\React\\fitnesstracker\\src\\components\\CaloriesBurnedCalculator.js",
+              "RelativeToolTip": "src\\components\\CaloriesBurnedCalculator.js",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAqwLUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-04T03:18:13.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BestFoodsForDiets.js",
+              "DocumentMoniker": "C:\\Users\\elija\\Documents\\React\\fitnesstracker\\src\\components\\BestFoodsForDiets.js",
+              "RelativeDocumentMoniker": "src\\components\\BestFoodsForDiets.js",
+              "ToolTip": "C:\\Users\\elija\\Documents\\React\\fitnesstracker\\src\\components\\BestFoodsForDiets.js",
+              "RelativeToolTip": "src\\components\\BestFoodsForDiets.js",
+              "ViewState": "AgIAADwAAAAAAAAAAAAiwG8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-04T02:52:52.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.js",
+              "DocumentMoniker": "C:\\Users\\elija\\Documents\\React\\fitnesstracker\\src\\App.js",
+              "RelativeDocumentMoniker": "src\\App.js",
+              "ToolTip": "C:\\Users\\elija\\Documents\\React\\fitnesstracker\\src\\App.js",
+              "RelativeToolTip": "src\\App.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-04T01:29:57.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Navbar.js",
+              "DocumentMoniker": "C:\\Users\\elija\\Documents\\React\\fitnesstracker\\src\\components\\Navbar.js",
+              "RelativeDocumentMoniker": "src\\components\\Navbar.js",
+              "ToolTip": "C:\\Users\\elija\\Documents\\React\\fitnesstracker\\src\\components\\Navbar.js",
+              "RelativeToolTip": "src\\components\\Navbar.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-04T01:31:48.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Hero.js",
+              "DocumentMoniker": "C:\\Users\\elija\\Documents\\React\\fitnesstracker\\src\\components\\Hero.js",
+              "RelativeDocumentMoniker": "src\\components\\Hero.js",
+              "ToolTip": "C:\\Users\\elija\\Documents\\React\\fitnesstracker\\src\\components\\Hero.js",
+              "RelativeToolTip": "src\\components\\Hero.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-04T01:32:02.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CalorieCalculator.js",
+              "DocumentMoniker": "C:\\Users\\elija\\Documents\\React\\fitnesstracker\\src\\components\\CalorieCalculator.js",
+              "RelativeDocumentMoniker": "src\\components\\CalorieCalculator.js",
+              "ToolTip": "C:\\Users\\elija\\Documents\\React\\fitnesstracker\\src\\components\\CalorieCalculator.js",
+              "RelativeToolTip": "src\\components\\CalorieCalculator.js",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAqwHQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-04T02:08:28.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "index.js",
+              "DocumentMoniker": "C:\\Users\\elija\\Documents\\React\\fitnesstracker\\src\\index.js",
+              "RelativeDocumentMoniker": "src\\index.js",
+              "ToolTip": "C:\\Users\\elija\\Documents\\React\\fitnesstracker\\src\\index.js",
+              "RelativeToolTip": "src\\index.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-04T01:32:16.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Footer.js",
+              "DocumentMoniker": "C:\\Users\\elija\\Documents\\React\\fitnesstracker\\src\\components\\Footer.js",
+              "RelativeDocumentMoniker": "src\\components\\Footer.js",
+              "ToolTip": "C:\\Users\\elija\\Documents\\React\\fitnesstracker\\src\\components\\Footer.js",
+              "RelativeToolTip": "src\\components\\Footer.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-04T01:32:14.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Features.js",
+              "DocumentMoniker": "C:\\Users\\elija\\Documents\\React\\fitnesstracker\\src\\components\\Features.js",
+              "RelativeDocumentMoniker": "src\\components\\Features.js",
+              "ToolTip": "C:\\Users\\elija\\Documents\\React\\fitnesstracker\\src\\components\\Features.js",
+              "RelativeToolTip": "src\\components\\Features.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-04T01:32:06.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BMICalculator.js",
+              "DocumentMoniker": "C:\\Users\\elija\\Documents\\React\\fitnesstracker\\src\\components\\BMICalculator.js",
+              "RelativeDocumentMoniker": "src\\components\\BMICalculator.js",
+              "ToolTip": "C:\\Users\\elija\\Documents\\React\\fitnesstracker\\src\\components\\BMICalculator.js",
+              "RelativeToolTip": "src\\components\\BMICalculator.js",
+              "ViewState": "AgIAACUAAAAAAAAAAAAqwFkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-04T02:08:01.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Header.js",
+              "DocumentMoniker": "C:\\Users\\elija\\Documents\\React\\fitnesstracker\\src\\components\\Header.js",
+              "RelativeDocumentMoniker": "src\\components\\Header.js",
+              "ToolTip": "C:\\Users\\elija\\Documents\\React\\fitnesstracker\\src\\components\\Header.js",
+              "RelativeToolTip": "src\\components\\Header.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-04T01:31:57.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WorkoutsOfWeek.js",
+              "DocumentMoniker": "C:\\Users\\elija\\Documents\\React\\fitnesstracker\\src\\components\\WorkoutsOfWeek.js",
+              "RelativeDocumentMoniker": "src\\components\\WorkoutsOfWeek.js",
+              "ToolTip": "C:\\Users\\elija\\Documents\\React\\fitnesstracker\\src\\components\\WorkoutsOfWeek.js",
+              "RelativeToolTip": "src\\components\\WorkoutsOfWeek.js",
+              "ViewState": "AgIAADIAAAAAAAAAAAAqwGYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-04T02:52:37.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Testimonials.js",
+              "DocumentMoniker": "C:\\Users\\elija\\Documents\\React\\fitnesstracker\\src\\components\\Testimonials.js",
+              "RelativeDocumentMoniker": "src\\components\\Testimonials.js",
+              "ToolTip": "C:\\Users\\elija\\Documents\\React\\fitnesstracker\\src\\components\\Testimonials.js",
+              "RelativeToolTip": "src\\components\\Testimonials.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-04T01:32:09.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "styles.css",
+              "DocumentMoniker": "C:\\Users\\elija\\Documents\\React\\fitnesstracker\\src\\styles.css",
+              "RelativeDocumentMoniker": "src\\styles.css",
+              "ToolTip": "C:\\Users\\elija\\Documents\\React\\fitnesstracker\\src\\styles.css",
+              "RelativeToolTip": "src\\styles.css",
+              "ViewState": "AgIAAMEAAAAAAAAAAAArwOcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-04T01:32:17.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "package.json",
+              "DocumentMoniker": "C:\\Users\\elija\\Documents\\React\\fitnesstracker\\package.json",
+              "RelativeDocumentMoniker": "package.json",
+              "ToolTip": "C:\\Users\\elija\\Documents\\React\\fitnesstracker\\package.json",
+              "RelativeToolTip": "package.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-04T23:52:52.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\elija\\Documents\\React\\fitnesstracker\\public\\index.html",
+              "RelativeDocumentMoniker": "public\\index.html",
+              "ToolTip": "C:\\Users\\elija\\Documents\\React\\fitnesstracker\\public\\index.html",
+              "RelativeToolTip": "public\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-12-04T02:17:52.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "styles.css",
+              "DocumentMoniker": "C:\\Users\\elija\\Documents\\React\\backup 3\\src\\styles.css",
+              "RelativeDocumentMoniker": "..\\backup 3\\src\\styles.css",
+              "ToolTip": "C:\\Users\\elija\\Documents\\React\\backup 3\\src\\styles.css",
+              "RelativeToolTip": "..\\backup 3\\src\\styles.css",
+              "ViewState": "AgIAAFwBAAAAAAAAAAAAAHIBAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-04T22:51:50.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CalorieCalculator.js",
+              "DocumentMoniker": "C:\\Users\\elija\\Documents\\React\\backup 3\\src\\components\\CalorieCalculator.js",
+              "RelativeDocumentMoniker": "..\\backup 3\\src\\components\\CalorieCalculator.js",
+              "ToolTip": "C:\\Users\\elija\\Documents\\React\\backup 3\\src\\components\\CalorieCalculator.js",
+              "RelativeToolTip": "..\\backup 3\\src\\components\\CalorieCalculator.js",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAiwGwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-04T22:52:28.346Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

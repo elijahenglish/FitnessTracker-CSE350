@@ -1,0 +1,891 @@
+/* Universal Styling */
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+    background-color: #f4f8fb;
+    color: #1d2837;
+}
+
+/* General Layout */
+.container {
+    max-width: 1200px;
+    margin: auto;
+    padding: 20px;
+}
+
+/* Header */
+.header {
+    background: linear-gradient(90deg, #4caf50, #2e7d32);
+    color: white;
+    padding: 20px;
+    text-align: center;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+
+    .header h1 {
+        font-size: 2.5rem;
+        margin: 0;
+    }
+
+    .header p {
+        font-size: 1rem;
+        margin: 5px 0 0;
+    }
+
+/* Navbar */
+.navbar {
+    background-color: #4caf50;
+    padding: 10px 0;
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+}
+
+.navbar-menu {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+}
+
+.navbar-item {
+    margin: 0;
+}
+
+    .navbar-item a {
+        text-decoration: none; 
+        color: white;
+        font-weight: bold;
+        padding: 10px 15px;
+        border-radius: 5px;
+        transition: background-color 0.3s ease;
+    }
+
+        .navbar-item a:hover {
+            background-color: #2e7d32;
+        }
+
+/* Hero Section */
+.hero {
+    position: relative;
+    background: url('./assets/images/fitness-bg.jpg') no-repeat center center/cover;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.hero-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5); 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.hero-content {
+    position: relative;
+    text-align: center;
+    color: #ffffff;
+}
+
+    .hero-content h1 {
+        font-size: 3rem;
+        font-weight: bold;
+        text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); 
+    }
+
+    .hero-content p {
+        font-size: 1.5rem;
+        text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5); 
+    }
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .hero-content h1 {
+        font-size: 2rem;
+    }
+
+    .hero-content p {
+        font-size: 1.2rem;
+    }
+}
+
+
+/* Features Section */
+.features {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 30px;
+    padding: 40px 0;
+}
+
+.feature-item {
+    width: 80%;
+    text-align: center;
+}
+
+.feature-button {
+    background-color: #4caf50;
+    color: white;
+    padding: 20px 40px;
+    font-size: 1.5rem;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background 0.3s ease;
+    width: 100%;
+}
+
+    .feature-button:hover {
+        background-color: #2e7d32;
+    }
+
+.feature-description {
+    margin-top: 10px;
+    font-size: 1.1rem;
+    color: #1d2837;
+}
+
+/* Testimonials Section */
+.testimonials {
+    background-color: #f9fafb;
+    padding: 60px 20px;
+}
+
+    .testimonials h2 {
+        text-align: center;
+        font-size: 2rem;
+        color: #2e7d32;
+        margin-bottom: 30px;
+    }
+
+.testimonial-columns {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+}
+
+.testimonial-column {
+    flex: 1;
+}
+
+.testimonial-item {
+    background-color: white;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 10px 0;
+    box-shadow: 0px 2px 7px rgba(0, 0, 0, 0.1);
+}
+
+    .testimonial-item p {
+        font-size: 1rem;
+        font-style: italic;
+        margin-bottom: 15px;
+    }
+
+    .testimonial-item .author {
+        font-size: 0.9rem;
+        font-weight: bold;
+        color: #4caf50;
+    }
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .testimonial-columns {
+        flex-direction: column;
+    }
+}
+
+/* Footer */
+.footer {
+    background-color: #2e7d32;
+    color: white;
+    padding: 20px 10px;
+    text-align: center;
+    margin-top: 40px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+
+    .footer p {
+        font-size: 0.9rem;
+        margin: 5px 0; /* Updated to allow space between paragraphs */
+    }
+
+    .footer a {
+        color: #66bb6a;
+        text-decoration: none;
+    }
+
+        .footer a:hover {
+            text-decoration: underline;
+        }
+
+/* BMI Calculator */
+.bmi-calculator {
+    background-color: white;
+    border: 1px solid #e0e0e0;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 20px 0;
+    box-shadow: 0px 2px 7px rgba(0, 0, 0, 0.1);
+}
+
+    .bmi-calculator h2 {
+        color: #4caf50;
+    }
+
+    .bmi-calculator .form-group {
+        margin-bottom: 15px;
+    }
+
+    .bmi-calculator input {
+        width: 100%;
+        padding: 8px;
+        border-radius: 5px;
+        border: 1px solid #ccc;
+    }
+
+    .bmi-calculator .height-inputs {
+        display: flex;
+        gap: 10px;
+    }
+
+        .bmi-calculator .height-inputs input {
+            width: calc(50% - 5px);
+        }
+
+    .bmi-calculator button {
+        background-color: #4caf50;
+        color: white;
+        padding: 10px;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        transition: background 0.3s ease;
+    }
+
+        .bmi-calculator button:hover {
+            background-color: #2e7d32;
+        }
+
+.bmi-table {
+    margin-top: 20px;
+}
+
+    .bmi-table table {
+        width: 100%;
+        border-collapse: collapse;
+        margin-top: 10px;
+    }
+
+    .bmi-table th, .bmi-table td {
+        border: 1px solid #ccc;
+        padding: 10px;
+        text-align: center;
+    }
+
+    .bmi-table th {
+        background-color: #4caf50;
+        color: white;
+    }
+
+    .bmi-table td {
+        background-color: #f9f9f9;
+    }
+
+/* Calorie Intake Calculator */
+.calorie-intake-calculator {
+    background-color: white;
+    border: 1px solid #e0e0e0;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 20px 0;
+    box-shadow: 0px 2px 7px rgba(0, 0, 0, 0.1);
+}
+
+    .calorie-intake-calculator h2 {
+        color: #4caf50;
+    }
+
+.calorie-content {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.input-section {
+    flex: 1;
+    max-width: 20%; 
+}
+
+.calorie-chart {
+    flex: 1;
+    max-width: 30%; 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.pie-section {
+    flex: 1;
+    max-width: 50%; 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.chart-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.pie-section canvas {
+    width: 100% !important;
+    height: auto !important;
+}
+
+.calorie-intake-calculator .form-group {
+    margin-bottom: 15px;
+}
+
+.calorie-intake-calculator input {
+    width: 100%;
+    padding: 8px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+
+.calorie-intake-calculator button {
+    background-color: #4caf50;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background 0.3s ease;
+}
+
+    .calorie-intake-calculator button:hover {
+        background-color: #2e7d32;
+    }
+
+.calorie-intake-calculator .calorie-summary {
+    margin-top: 20px;
+    text-align: center;
+}
+
+    .calorie-intake-calculator .calorie-summary h3 {
+        margin-bottom: 15px;
+    }
+
+    .calorie-intake-calculator .calorie-summary h4 {
+        margin: 5px 0;
+    }
+
+.calorie-chart table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+}
+
+.calorie-chart th, .calorie-chart td {
+    border: 1px solid #ccc;
+    padding: 10px;
+    text-align: center;
+}
+
+.calorie-chart th {
+    background-color: #4caf50;
+    color: white;
+}
+
+.calorie-chart td {
+    background-color: #f9f9f9;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .input-section,
+    .pie-section,
+    .calorie-chart {
+        max-width: 100%;
+        flex: 1 1 100%;
+    }
+}
+
+/* Calculators Section */
+.calculators {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: space-between;
+    padding: 20px 0;
+}
+
+.bmi-calculator, .calorie-calculator {
+    flex: 1 1 45%;
+    background-color: white;
+    border: 1px solid #e0e0e0;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0px 2px 7px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .features {
+        flex-direction: column;
+    }
+
+    .feature-item {
+        flex: 1 1 100%;
+    }
+
+    .navbar {
+        flex-direction: column;
+        gap: 10px;
+    }
+
+    .hero h2 {
+        font-size: 2rem;
+    }
+
+    .calculators {
+        flex-direction: column;
+    }
+
+    .bmi-calculator, .calorie-calculator {
+        flex: 1 1 100%;
+    }
+}
+/* Workouts Section */
+.workouts {
+    background-color: white;
+    border: 1px solid #e0e0e0;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 20px;
+    box-shadow: 0px 2px 7px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+.home-button-container {
+    display: flex;
+    justify-content: flex-start;
+    margin-bottom: 20px;
+}
+
+.home-button {
+    text-decoration: none;
+    background-color: #4caf50;
+    color: white;
+    padding: 10px 15px;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+    .home-button:hover {
+        background-color: #2e7d32;
+    }
+
+.workouts h2 {
+    color: #4caf50;
+    margin-bottom: 20px;
+}
+
+.workout-columns {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 20px;
+}
+
+.workout-category {
+    background-color: #f9f9f9;
+    border: 1px solid #e0e0e0;
+    border-radius: 10px;
+    padding: 20px;
+    flex: 1 1 45%;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
+    text-align: left;
+}
+
+    .workout-category h3 {
+        color: #2e7d32;
+        margin-bottom: 10px;
+    }
+
+    .workout-category ul {
+        list-style-type: none;
+        padding: 0;
+    }
+
+    .workout-category li {
+        font-size: 1.1rem;
+        margin-bottom: 8px;
+        color: #1d2837;
+    }
+
+    .workout-category p {
+        font-size: 1.1rem;
+        color: #1d2837;
+        margin-top: 10px;
+    }
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .workout-category {
+        flex: 1 1 100%;
+    }
+}
+
+
+/* Best Foods Section */
+.best-foods {
+    background-color: white;
+    border: 1px solid #e0e0e0;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 20px;
+    box-shadow: 0px 2px 7px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+    .best-foods h2 {
+        color: #4caf50;
+    }
+
+    .best-foods img {
+        max-width: 100%;
+        border-radius: 10px;
+        margin-top: 20px;
+    }
+
+/* Calories Burned Calculator */
+.calories-burned-calculator {
+    background-color: white;
+    border: 1px solid #e0e0e0;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 20px 0;
+    box-shadow: 0px 2px 7px rgba(0, 0, 0, 0.1);
+}
+
+    .calories-burned-calculator h2 {
+        color: #4caf50;
+        text-align: left; 
+    }
+
+.calories-burned-content {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.input-section {
+    flex: 1;
+    max-width: 45%;
+}
+
+.chart-section {
+    flex: 1;
+    max-width: 45%;
+}
+
+.calories-burned-calculator .form-group {
+    margin-bottom: 15px;
+    text-align: left;
+}
+
+.calories-burned-calculator label {
+    display: block;
+    font-size: 1rem;
+    color: #1d2837;
+    margin-bottom: 5px;
+}
+
+.calories-burned-calculator select,
+.calories-burned-calculator input {
+    width: 100%;
+    padding: 8px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+
+.duration-inputs {
+    display: flex;
+    gap: 10px;
+}
+
+    .duration-inputs input {
+        flex: 1;
+    }
+
+.calories-burned-calculator button {
+    background-color: #4caf50;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background 0.3s ease;
+}
+
+    .calories-burned-calculator button:hover {
+        background-color: #2e7d32;
+    }
+
+.calories-burned-calculator .result {
+    margin-top: 20px;
+}
+
+    .calories-burned-calculator .result h3 {
+        font-size: 1.2rem;
+        color: #1d2837;
+    }
+
+.calories-burned-calculator .congratulations {
+    font-size: 1.1rem;
+    color: #4caf50;
+    font-weight: bold;
+}
+
+.calories-burned-calculator .exercise-table {
+    margin-top: 20px;
+    text-align: left;
+}
+
+    .calories-burned-calculator .exercise-table h3 {
+        margin-bottom: 10px;
+    }
+
+.calories-burned-calculator table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+}
+
+.calories-burned-calculator th,
+.calories-burned-calculator td {
+    border: 1px solid #e0e0e0;
+    padding: 10px;
+    text-align: left;
+}
+
+.calories-burned-calculator th {
+    background-color: #4caf50;
+    color: white;
+}
+
+.calories-burned-calculator td {
+    background-color: #f9f9f9;
+}
+
+.calories-burned-calculator .disclaimer {
+    margin-top: 10px;
+    font-size: 0.9rem;
+    color: #757575;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .input-section,
+    .chart-section {
+        max-width: 100%;
+        flex: 1 1 100%;
+    }
+}
+
+/* Light Theme */
+body.light {
+    background-color: #ffffff;
+    color: #000000;
+}
+
+/* Dark Theme */
+body.dark {
+    background-color: #121212;
+    color: #ffffff;
+}
+
+/* Common Styles */
+.app {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+
+button {
+    padding: 10px 20px;
+    margin: 10px 0;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+body.light button {
+    background-color: #000000;
+    color: #ffffff;
+}
+
+body.dark button {
+    background-color: #ffffff;
+    color: #000000;
+}
+
+/* BestFoodsForDiets.css */
+.best-foods-for-diets {
+    padding: 20px;
+}
+
+.home-button-container {
+    display: flex;
+    justify-content: flex-start;
+    margin-bottom: 20px;
+}
+
+.home-button {
+    text-decoration: none;
+    background-color: #4caf50;
+    color: white;
+    padding: 10px 15px;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+    .home-button:hover {
+        background-color: #2e7d32;
+    }
+
+.food-groups {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.food-group {
+    flex: 1 1 calc(50% - 40px);
+    background-color: #f9f9f9;
+    border: 1px solid #e0e0e0;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0px 2px 7px rgba(0, 0, 0, 0.1);
+}
+
+    .food-group h3 {
+        color: #4caf50;
+    }
+
+    .food-group ul {
+        list-style: none;
+        padding: 0;
+    }
+
+    .food-group li {
+        margin-bottom: 10px;
+    }
+
+/* Contact Us Section */
+.contact-us {
+    background-color: white;
+    border: 1px solid #e0e0e0;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 20px;
+    box-shadow: 0px 2px 7px rgba(0, 0, 0, 0.1);
+    text-align: left;
+}
+
+    .contact-us h2 {
+        color: #4caf50;
+        text-align: center;
+        margin-bottom: 20px;
+    }
+
+.home-button-container {
+    display: flex;
+    justify-content: flex-start;
+    margin-bottom: 20px;
+}
+
+.home-button {
+    text-decoration: none;
+    background-color: #4caf50;
+    color: white;
+    padding: 10px 15px;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+    .home-button:hover {
+        background-color: #2e7d32;
+    }
+
+.form-group {
+    margin-bottom: 15px;
+}
+
+    .form-group label {
+        display: block;
+        font-weight: bold;
+        margin-bottom: 5px;
+    }
+
+    .form-group input,
+    .form-group select,
+    .form-group textarea {
+        width: 100%;
+        padding: 8px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        box-sizing: border-box;
+    }
+
+    .form-group textarea {
+        resize: vertical;
+    }
+
+button {
+    display: block;
+    width: 100%;
+    padding: 10px 15px;
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+    button:hover {
+        background-color: #2e7d32;
+    }
+
+.submission-message {
+    text-align: center;
+    color: #4caf50;
+}
+
+    .submission-message h2 {
+        margin-bottom: 20px;
+    }
+
+    .submission-message p {
+        font-size: 1.2rem;
+        margin-bottom: 15px;
+    }
